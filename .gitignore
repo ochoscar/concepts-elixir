@@ -3,3 +3,4 @@ _build
 concepts-elixir.iml
 concepts_elixir.iml
 mix.exs
+**/*.beam
